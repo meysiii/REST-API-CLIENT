@@ -127,4 +127,4 @@ Store API responses in a file or database
 
 # OUTPUT
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8f00e97d-8e33-41fa-9e24-332ea6ae23a3" />
