@@ -1,5 +1,21 @@
 # REST-API-CLIENT [ WEATHER APPLICATION ]
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : M.S.MEYSINTHA
+
+INTERN ID: CTIS0826
+
+DOMAIN: JAVA PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR: NEELA SANTHOSH
+
+# Description
+
+https://github.com/meysiii/REST-API-CLIENT
+
 # 👋 Introduction
 
 The project focuses on understanding how Java applications interact with external systems using RESTful APIs, handle HTTP requests, and process JSON responses in real-world scenarios.
@@ -108,3 +124,7 @@ Integrate GUI using JavaFX or Swing
 Extend to display multi-day weather forecasts
 
 Store API responses in a file or database
+
+# OUTPUT
+
+
