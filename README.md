@@ -82,7 +82,7 @@ WeatherClient/
 # ▶️ How to Run the Project
 
 Clone the repository:
-git clone https://github.com/your-username/WeatherClient.git
+git clone https://github.com/meysiii/WeatherClient.git
 
 Navigate to the source folder:
 cd WeatherClient/src
